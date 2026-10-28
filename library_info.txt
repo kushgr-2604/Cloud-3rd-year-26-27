@@ -1,6 +1,6 @@
 Name : Kushagra
 Roll Number: 2415001887 
-Subject : Applicaton Build and Realease Automation lab <<<<<<< HEAD
+Subject : Applicaton Build and Realease Automation lab
 Project Name :GLA Online Library Management System 
 Semester: 5th sem
 
@@ -10,4 +10,15 @@ Project Objective: To develop an efficient Online Library
 management System for managing books, users and library operations. 
 Project Description: the system will 
 provide functionalities for managing library books, tracking book availability and maintaining library- 
-related information.>>>>>>> library-update
+related information.
+
+Name: Soyab Khan
+Roll Number: 2415001900
+Subject: Application Build and Release Automation Lab
+Project Name: Online Library Management System
+Semester: 5th Semester
+Project Objective:
+To efficiently manage library books and records for students and staff.
+
+Project Description:
+The system will help manage library books and provide basic book management features.
